@@ -1,0 +1,26 @@
+# ========= Python =========
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# ========= IDE / Editor =========
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# ========= OS / env =========
+.DS_Store
+Thumbs.db
+.env
+!.env.example
+
+# ========= Output / data sementara (opsional, sesuaikan) =========
+# quaran_document/data/processed/*.npz
